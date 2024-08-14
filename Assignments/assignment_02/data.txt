@@ -1,0 +1,1 @@
+{"transactions":[["rent",200],["family",100],["loan",100],["business",200],["salary",400]],"categories":[["loan",1],["salary",0],["business",0],["rent",1],["family",1]]}
